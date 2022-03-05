@@ -31,6 +31,7 @@ main {
 .bg img {
   position: absolute;
   height: 378px;
+  width: 100%;
   object-fit: cover;
   object-position: 50% 50%;
   filter: brightness(40%);
@@ -110,5 +111,11 @@ footer p {
   }
   footer p {
     margin-top: 50px;
+  }
+}
+
+@media (min-width: 1920px) and (max-width: 2560px) {
+  .tt {
+    padding: 129px 0 0 400px;
   }
 }
