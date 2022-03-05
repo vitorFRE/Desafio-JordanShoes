@@ -1,6 +1,6 @@
 # Desafio-JordanShoes
 
-<a href="https://app.netlify.com/sites/xenodochial-hermann-11e92c/overview/">
+<a href="https://xenodochial-hermann-11e92c.netlify.app/">
       Demo
     </a>
 
