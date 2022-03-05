@@ -1,2 +1,10 @@
 # Desafio-JordanShoes
-Desafio número 02 do discord, CodeLândia Deploy:https://thirsty-shirley-f509fb.netlify.app/ Discord:https://discord.gg/wNCWTVuxyz
+
+<a href="https://app.netlify.com/sites/xenodochial-hermann-11e92c/overview/">
+      Demo
+    </a>
+
+<p align="center">
+  <img src="/print.png" title="Print">
+</p>
+
